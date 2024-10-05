@@ -1,0 +1,591 @@
+{
+  "patientId": "c6047dfa-7b8c-3001-7ce0-09b17fc73339",
+  "patientSummary": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 Summary:\nMedical Conditions: Served in armed forces (finding)\nMedications: Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet",
+  "eligibleTrials": [
+    {
+      "trialId": "NCT03865420",
+      "trialName": "Amyotrophic Lateral Sclerosis (ALS) Families Project",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Amyotrophic Lateral Sclerosis (ALS) Families Project' (NCT Number: NCT03865420). The patient's age satisfies the age criteria (18 Years to 105 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03065231",
+      "trialName": "Lumbar Drain vs Extraventricular Drain to Prevent Vasospasm in Subarachnoid Hemorrhage",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Lumbar Drain vs Extraventricular Drain to Prevent Vasospasm in Subarachnoid Hemorrhage' (NCT Number: NCT03065231). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03702140",
+      "trialName": "Examination How the Administration Period of Teriparatide Affects Bone Metabolism and Bone Mineral Density Prior to Denosumab Therapy",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Examination How the Administration Period of Teriparatide Affects Bone Metabolism and Bone Mineral Density Prior to Denosumab Therapy' (NCT Number: NCT03702140). The patient's age satisfies the age criteria (20 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02023060",
+      "trialName": "Functional and Quality of Life Improvement Following Transcatheter Heart Valve Implantation",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Functional and Quality of Life Improvement Following Transcatheter Heart Valve Implantation' (NCT Number: NCT02023060). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04807127",
+      "trialName": "A Single-cell Approach to Identify Biomarkers of Pulmonary Toxicity for Immune Checkpoint Blockade",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'A Single-cell Approach to Identify Biomarkers of Pulmonary Toxicity for Immune Checkpoint Blockade' (NCT Number: NCT04807127). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04502160",
+      "trialName": "The Northern Ireland Haemodialysis Vascular Access Database",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'The Northern Ireland Haemodialysis Vascular Access Database' (NCT Number: NCT04502160). The patient's age satisfies the age criteria (16 Years to 105 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03663348",
+      "trialName": "Registry of Patients With Takotsubo Syndrome",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Registry of Patients With Takotsubo Syndrome' (NCT Number: NCT03663348). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04577248",
+      "trialName": "The Prospecive OBSERVational Munich Interventional MITRAl-Valve Registry",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'The Prospecive OBSERVational Munich Interventional MITRAl-Valve Registry' (NCT Number: NCT04577248). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT00830557",
+      "trialName": "Collecting Medical Information and Tissue Samples From Patients With Pancreatic Cancer or Other Pancreatic Disorders",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Collecting Medical Information and Tissue Samples From Patients With Pancreatic Cancer or Other Pancreatic Disorders' (NCT Number: NCT00830557). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04733430",
+      "trialName": "LALUCA Research Platform A Prospective Analysis of Lung Cancer Diagnosis and Management in Clinical Practice",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'LALUCA Research Platform A Prospective Analysis of Lung Cancer Diagnosis and Management in Clinical Practice' (NCT Number: NCT04733430). The patient's age satisfies the age criteria (18 Years to 125 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT00442195",
+      "trialName": "Collection and Analysis of Blood, Bone Marrow, and Buccal Mucosa Samples From Healthy Volunteers",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Collection and Analysis of Blood, Bone Marrow, and Buccal Mucosa Samples From Healthy Volunteers' (NCT Number: NCT00442195). The patient's age satisfies the age criteria (8 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03340129",
+      "trialName": "Anti-PD 1 Brain Collaboration + Radiotherapy Extension (ABC-X Study)",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Anti-PD 1 Brain Collaboration + Radiotherapy Extension (ABC-X Study)' (NCT Number: NCT03340129). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03473912",
+      "trialName": "Meir Medical Center Rheumatologic Biobank",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Meir Medical Center Rheumatologic Biobank' (NCT Number: NCT03473912). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04776681",
+      "trialName": "Living With Marfans and Your Aorta: Surgical Outcomes Study",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Living With Marfans and Your Aorta: Surgical Outcomes Study' (NCT Number: NCT04776681). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04191304",
+      "trialName": "A Phase III Study to Evaluate the Efficacy and Safety of Benralizumab in Patients With Hypereosinophilic Syndrome (HES)",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'A Phase III Study to Evaluate the Efficacy and Safety of Benralizumab in Patients With Hypereosinophilic Syndrome (HES)' (NCT Number: NCT04191304). The patient's age satisfies the age criteria (12 Years to 130 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03621904",
+      "trialName": "PROMOTE Study: Prediction of Response Of HorMOnal Treatment in Advanced and Recurrent Endometrial Cancer",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'PROMOTE Study: Prediction of Response Of HorMOnal Treatment in Advanced and Recurrent Endometrial Cancer' (NCT Number: NCT03621904). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02808858",
+      "trialName": "Italian Network MDS Registry",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Italian Network MDS Registry' (NCT Number: NCT02808858). The patient's age satisfies the age criteria (18 Years to 106 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT01822834",
+      "trialName": "Bronchiectasis and NTM Research Registry",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Bronchiectasis and NTM Research Registry' (NCT Number: NCT01822834). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04612166",
+      "trialName": "Medication Empowerment and Deprescription for Safety (MEDS) Study",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Medication Empowerment and Deprescription for Safety (MEDS) Study' (NCT Number: NCT04612166). The patient's age satisfies the age criteria (65 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02379416",
+      "trialName": "Combination Nilotinib and Paclitaxel in Adults With Relapsed Solid Tumors",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Combination Nilotinib and Paclitaxel in Adults With Relapsed Solid Tumors' (NCT Number: NCT02379416). The patient's age satisfies the age criteria (12 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04219696",
+      "trialName": "Determining the Optimal Dose of Reactive Balance Training After Stroke",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Determining the Optimal Dose of Reactive Balance Training After Stroke' (NCT Number: NCT04219696). The patient's age satisfies the age criteria (18 Years to 130 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03366116",
+      "trialName": "5-aza-4'-Thio-2'-Deoxycytidine (Aza-TdC) in People With Advanced Solid Tumors",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial '5-aza-4'-Thio-2'-Deoxycytidine (Aza-TdC) in People With Advanced Solid Tumors' (NCT Number: NCT03366116). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT00897117",
+      "trialName": "Collecting and Analyzing Tissue Samples From Patients Undergoing Surgery for Non-Small Cell Lung Cancer",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Collecting and Analyzing Tissue Samples From Patients Undergoing Surgery for Non-Small Cell Lung Cancer' (NCT Number: NCT00897117). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04720313",
+      "trialName": "NXC-201 (Formerly HBI0101) Multiple Myeloma",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'NXC-201 (Formerly HBI0101) Multiple Myeloma' (NCT Number: NCT04720313). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04611672",
+      "trialName": "Linearity and Non-linearity of Cerebral Autoregulation",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Linearity and Non-linearity of Cerebral Autoregulation' (NCT Number: NCT04611672). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT00233272",
+      "trialName": "Baltimore Longitudinal Study of Aging",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Baltimore Longitudinal Study of Aging' (NCT Number: NCT00233272). The patient's age satisfies the age criteria (20 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02339012",
+      "trialName": "Genetic and Epigenetic Signatures of Translational Aging Laboratory Testing (GESTALT)",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Genetic and Epigenetic Signatures of Translational Aging Laboratory Testing (GESTALT)' (NCT Number: NCT02339012). The patient's age satisfies the age criteria (20 Years to 105 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04807114",
+      "trialName": "A Single-cell Approach to Identify Biomarkers of Efficacy and Toxicity for ICI in NSCLC",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'A Single-cell Approach to Identify Biomarkers of Efficacy and Toxicity for ICI in NSCLC' (NCT Number: NCT04807114). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04590690",
+      "trialName": "Gut Microbiome and Sex as Risk Factors for Kidney Stones After Bariatric Surgery",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Gut Microbiome and Sex as Risk Factors for Kidney Stones After Bariatric Surgery' (NCT Number: NCT04590690). The patient's age satisfies the age criteria (18 Years to 130 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04379596",
+      "trialName": "Ph1b/2 Study of the Safety and Efficacy of T-DXd Combinations in Advanced HER2-expressing Gastric Cancer (DESTINY-Gastric03)",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Ph1b/2 Study of the Safety and Efficacy of T-DXd Combinations in Advanced HER2-expressing Gastric Cancer (DESTINY-Gastric03)' (NCT Number: NCT04379596). The patient's age satisfies the age criteria (18 Years to 130 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02229370",
+      "trialName": "Carotid Aneurysm Registry",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Carotid Aneurysm Registry' (NCT Number: NCT02229370). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT01276470",
+      "trialName": "Environmental Risk Factors for the Anti-synthetase Syndrome",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Environmental Risk Factors for the Anti-synthetase Syndrome' (NCT Number: NCT01276470). The patient's age satisfies the age criteria (2 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03366506",
+      "trialName": "Investigation of the Epidemiological Factors Associated With the Development of Amyotrophic Lateral Sclerosis (ALS)",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Investigation of the Epidemiological Factors Associated With the Development of Amyotrophic Lateral Sclerosis (ALS)' (NCT Number: NCT03366506). The patient's age satisfies the age criteria (12 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04449549",
+      "trialName": "Rapid Analysis and Response Evaluation of Combination Anti-Neoplastic Agents in Rare Tumors (RARE CANCER) Trial: RARE 1 Nilotinib and Paclitaxel",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Rapid Analysis and Response Evaluation of Combination Anti-Neoplastic Agents in Rare Tumors (RARE CANCER) Trial: RARE 1 Nilotinib and Paclitaxel' (NCT Number: NCT04449549). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02012699",
+      "trialName": "Integrated Cancer Repository for Cancer Research",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Integrated Cancer Repository for Cancer Research' (NCT Number: NCT02012699). The patient's age satisfies the age criteria (19 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04859218",
+      "trialName": "Revisiting the Universal Donor: Does Exposure to O Blood Products Affect Patient Outcomes?",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Revisiting the Universal Donor: Does Exposure to O Blood Products Affect Patient Outcomes?' (NCT Number: NCT04859218). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03765619",
+      "trialName": "Postoperative Aspirin and Ankle Fracture Healing",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Postoperative Aspirin and Ankle Fracture Healing' (NCT Number: NCT03765619). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02693223",
+      "trialName": "Get With the Guidelines-Stroke Registry",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Get With the Guidelines-Stroke Registry' (NCT Number: NCT02693223). The patient's age satisfies the age criteria (18 Years to 125 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04637438",
+      "trialName": "Fecal Microbiota Transplantation in Postoperative Crohn's Disease",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Fecal Microbiota Transplantation in Postoperative Crohn's Disease' (NCT Number: NCT04637438). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03836521",
+      "trialName": "Bicuspid Aortic Valve Stenosis Transcatheter Aortic Valve Replacement Registry",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Bicuspid Aortic Valve Stenosis Transcatheter Aortic Valve Replacement Registry' (NCT Number: NCT03836521). The patient's age satisfies the age criteria (19 Years to 129 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02022943",
+      "trialName": "Alzheimer's Prevention Registry: A Program to Accelerate Enrollment Into Studies",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Alzheimer's Prevention Registry: A Program to Accelerate Enrollment Into Studies' (NCT Number: NCT02022943). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04243538",
+      "trialName": "Piloting a Multi-component Technology-based Care Intervention to Address Patient Symptoms in Home Hospice",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Piloting a Multi-component Technology-based Care Intervention to Address Patient Symptoms in Home Hospice' (NCT Number: NCT04243538). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT01137643",
+      "trialName": "Tissue, Blood, and Body Fluid Sample Collection From Patients With Hematologic Cancer",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Tissue, Blood, and Body Fluid Sample Collection From Patients With Hematologic Cancer' (NCT Number: NCT01137643). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT00935090",
+      "trialName": "3'-Deoxy-3'-[18F] Fluorothymidine PET Imaging in Patients With Cancer",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial '3'-Deoxy-3'-[18F] Fluorothymidine PET Imaging in Patients With Cancer' (NCT Number: NCT00935090). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04834284",
+      "trialName": "HEMS for Mechanical Thrombectomy",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'HEMS for Mechanical Thrombectomy' (NCT Number: NCT04834284). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04181970",
+      "trialName": "Observational Study, for Quality Assessment, of Sarcoma in European and Latin American Multidisciplinary NETWORK",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Observational Study, for Quality Assessment, of Sarcoma in European and Latin American Multidisciplinary NETWORK' (NCT Number: NCT04181970). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03780452",
+      "trialName": "Compression Nail for Tibiocalcaneal Arthrodesis",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Compression Nail for Tibiocalcaneal Arthrodesis' (NCT Number: NCT03780452). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04185285",
+      "trialName": "Percutaneous Coronary Intervention Registry FRIBOURG",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Percutaneous Coronary Intervention Registry FRIBOURG' (NCT Number: NCT04185285). The patient's age satisfies the age criteria (17 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04060485",
+      "trialName": "Screening Gene Mutations in Myeloid Cancers by Next Generation Sequencing to Improve Treatment Results",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Screening Gene Mutations in Myeloid Cancers by Next Generation Sequencing to Improve Treatment Results' (NCT Number: NCT04060485). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT00923507",
+      "trialName": "Natural History Study of Monoclonal B Cell Lymphocytosis (MBL), Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL), Lymphoplasmacytic Lymphoma (LPL)/Waldenstrom Macroglobulinemia (WM), and Splenic Marginal Zone Lymphoma (SMZL)",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Natural History Study of Monoclonal B Cell Lymphocytosis (MBL), Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL), Lymphoplasmacytic Lymphoma (LPL)/Waldenstrom Macroglobulinemia (WM), and Splenic Marginal Zone Lymphoma (SMZL)' (NCT Number: NCT00923507). The patient's age satisfies the age criteria (18 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04482309",
+      "trialName": "A Phase 2 Study of T-DXd in Patients With Selected HER2 Expressing Tumors",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'A Phase 2 Study of T-DXd in Patients With Selected HER2 Expressing Tumors' (NCT Number: NCT04482309). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03269578",
+      "trialName": "Sample Collection and Tracking for the Developmental Therapeutics Clinic",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Sample Collection and Tracking for the Developmental Therapeutics Clinic' (NCT Number: NCT03269578). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02546128",
+      "trialName": "LEICeSter Tendon Extracorporeal Shockwave Studies",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'LEICeSter Tendon Extracorporeal Shockwave Studies' (NCT Number: NCT02546128). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03893188",
+      "trialName": "The SwissPrEPared Study",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'The SwissPrEPared Study' (NCT Number: NCT03893188). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03451383",
+      "trialName": "Older Breast Cancer Patients: Risk for Cognitive Decline",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Older Breast Cancer Patients: Risk for Cognitive Decline' (NCT Number: NCT03451383). The patient's age satisfies the age criteria (60 Years to 105 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT00835133",
+      "trialName": "Collecting Blood and Tissue Samples From Family Members of Patients With Pancreatic Diseases, Pancreatic Cancer, and Melanoma",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Collecting Blood and Tissue Samples From Family Members of Patients With Pancreatic Diseases, Pancreatic Cancer, and Melanoma' (NCT Number: NCT00835133). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02693509",
+      "trialName": "Get With The Guidelines-Heart Failure Registry",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Get With The Guidelines-Heart Failure Registry' (NCT Number: NCT02693509). The patient's age satisfies the age criteria (18 Years to 125 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03510078",
+      "trialName": "Intensive Versus Conventional Hyperglycemic Control in Hospitalized Non-critically Ill Patients",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Intensive Versus Conventional Hyperglycemic Control in Hospitalized Non-critically Ill Patients' (NCT Number: NCT03510078). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03540771",
+      "trialName": "Introducing Palliative Care (PC) Within the Treatment of End Stage Liver Disease (ESLD)",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Introducing Palliative Care (PC) Within the Treatment of End Stage Liver Disease (ESLD)' (NCT Number: NCT03540771). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT02264678",
+      "trialName": "Ascending Doses of Ceralasertib in Combination With Chemotherapy and/or Novel Anti Cancer Agents",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Ascending Doses of Ceralasertib in Combination With Chemotherapy and/or Novel Anti Cancer Agents' (NCT Number: NCT02264678). The patient's age satisfies the age criteria (18 Years to 130 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03755193",
+      "trialName": "Examination of Efficacy and Safety of Other Anti-Resorption Drugs After 2-year-Denosumab Therapy in Japanese Osteoporosis Patients",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Examination of Efficacy and Safety of Other Anti-Resorption Drugs After 2-year-Denosumab Therapy in Japanese Osteoporosis Patients' (NCT Number: NCT03755193). The patient's age satisfies the age criteria (20 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT00900471",
+      "trialName": "Collection and Storage of Tissue Samples From Patients Undergoing Surgery For Suspected Solid Tumors",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Collection and Storage of Tissue Samples From Patients Undergoing Surgery For Suspected Solid Tumors' (NCT Number: NCT00900471). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT00071045",
+      "trialName": "Collection of Tissue Specimens From Patients With Solid Tumors or Blood Disorders and Their HLA-Compatible Family Members",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Collection of Tissue Specimens From Patients With Solid Tumors or Blood Disorders and Their HLA-Compatible Family Members' (NCT Number: NCT00071045). The patient's age satisfies the age criteria (2 Years to 110 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT04686305",
+      "trialName": "Phase Ib Study of the Safety of T-DXd and Immunotherapy Agents With and Without Chemotherapy in Advanced or Metastatic HER2+, Non-squamous NSCLC",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Phase Ib Study of the Safety of T-DXd and Immunotherapy Agents With and Without Chemotherapy in Advanced or Metastatic HER2+, Non-squamous NSCLC' (NCT Number: NCT04686305). The patient's age satisfies the age criteria (18 Years to 120 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    },
+    {
+      "trialId": "NCT03536247",
+      "trialName": "Papillary Balloon Dilation Versus Intraductal Lithotripsy",
+      "eligibilityCriteriaMet": [
+        "Age requirement met",
+        "Exclusion criteria cleared"
+      ],
+      "explanation": "Patient c6047dfa-7b8c-3001-7ce0-09b17fc73339 with age 102 is eligible for the trial 'Papillary Balloon Dilation Versus Intraductal Lithotripsy' (NCT Number: NCT03536247). The patient's age satisfies the age criteria (18 Years to 115 Years), and the patient's medical conditions and medications do not match any of the exclusion criteria."
+    }
+  ]
+}
