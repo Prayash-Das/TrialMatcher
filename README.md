@@ -4,7 +4,7 @@ This project aims to match patients to clinical trials based on their medical hi
 
 Additionally, the system generates:
 - **Patient history summaries**.
-- **Explanations for why a patient is eligible** for a specific clinical trial.
+- **Explanations for a patient's eligibility** for a specific clinical trial.
 
 ## Table of Contents
 
@@ -55,8 +55,8 @@ To get started with this project, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/clinical-trial-matching.git
-cd clinical-trial-matching
+git clone https://github.com/Prayash-Das/TrialMatcher.git
+cd TrialMatcher
 ```
 
 ### Install Dependencies
@@ -100,7 +100,7 @@ You will be prompted to input a **Patient ID**. The system will match the patien
 
 ### 3. Output Example
 
-The output is saved in a file such as `eligible_trials_output_12345.json` and may look like this:
+The output is saved in a file such as `eligible_trials_output_12345.json` and looks like this:
 
 ```json
 {
